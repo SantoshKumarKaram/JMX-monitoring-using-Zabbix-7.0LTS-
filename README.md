@@ -1,4 +1,4 @@
-# JMX-monitoring-using-Zabbix-7.0LTS-
+# JMX-Monitoring-using-Zabbix-7.0LTS-
 
 =======JMX monitoring using zabbix 7.0LTS=======
 --------------
